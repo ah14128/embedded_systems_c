@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="FlashDialog">
+		<item value="250" key="id_speed"/>
+		<item value="false" key="erase_pages"/>
+		<item value="false" key="program_all"/>
+		<item value="false" key="erase"/>
+		<item value="false" key="jtag"/>
+		<item value="" key="extended"/>
+		<item value="false" key="repeat"/>
+		<item value="true" key="program_pages"/>
+		<item value="true" key="erase_mass"/>
+		<item value="true" key="program"/>
+		<item value="O:\Documents\.3rd Year\EMbedded\BUGGY\Problem 1\Task1\Debug\Task1.axf;O:\Documents\.3rd Year\EMbedded\BUGGY\Problem 1\Problem 1\Project\Debug\Project.axf," key="file"/>
+		<item value="" key="base"/>
+		<item value="true" key="logFLag"/>
+		<item value="LPC175x_6x_512.cfx," key="flashdriver"/>
+		<item value="false" key="clipboard_exec"/>
+		<item value="true" key="exec"/>
+		<item value="false" key="clipboard"/>
+		<item value="false" key="reopen"/>
+	</section>
+</section>

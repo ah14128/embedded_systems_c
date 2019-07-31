@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project>
+	<configuration id="com.crt.advproject.config.exe.debug.1908190707" name="Debug">
+		<extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
+			<provider id="com.crt.advproject.GCCBuildCommandParser">
+				<language id="org.eclipse.cdt.core.gcc">
+					<resource project-relative-path="Source/Buttons.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="macro" name="DEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/SevenSegment.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="macro" name="DEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/Font5x7.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="macro" name="DEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/RotarySwitch.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="macro" name="DEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/Startup.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="macro" name="DEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/joystick.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="macro" name="DEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/pca9532.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="macro" name="DEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/Tune.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="macro" name="DEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/OLED.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="macro" name="DEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/NoSystem.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="macro" name="DEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/new_string.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="macro" name="DEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/Main.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="macro" name="DEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/dfrobot.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="macro" name="DEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+				</language>
+			</provider>
+		</extension>
+	</configuration>
+	<configuration id="com.crt.advproject.config.exe.release.918211869" name="Release">
+		<extension point="org.eclipse.cdt.core.LanguageSettingsProvider">
+			<provider id="com.crt.advproject.GCCBuildCommandParser">
+				<language id="org.eclipse.cdt.core.gcc">
+					<resource project-relative-path="Source/Buttons.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/DFRobot/Source"/>
+						<entry kind="includePath" name="/LibDFRobot/Source"/>
+						<entry kind="includePath" name="/LibCMSIS/Source"/>
+						<entry kind="includePath" name="/LibLPC17xx/Source"/>
+						<entry kind="macro" name="NDEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/SevenSegment.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/DFRobot/Source"/>
+						<entry kind="includePath" name="/LibDFRobot/Source"/>
+						<entry kind="includePath" name="/LibCMSIS/Source"/>
+						<entry kind="includePath" name="/LibLPC17xx/Source"/>
+						<entry kind="macro" name="NDEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/Font5x7.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/DFRobot/Source"/>
+						<entry kind="includePath" name="/LibDFRobot/Source"/>
+						<entry kind="includePath" name="/LibCMSIS/Source"/>
+						<entry kind="includePath" name="/LibLPC17xx/Source"/>
+						<entry kind="macro" name="NDEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/RotarySwitch.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/DFRobot/Source"/>
+						<entry kind="includePath" name="/LibDFRobot/Source"/>
+						<entry kind="includePath" name="/LibCMSIS/Source"/>
+						<entry kind="includePath" name="/LibLPC17xx/Source"/>
+						<entry kind="macro" name="NDEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/Startup.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/DFRobot/Source"/>
+						<entry kind="includePath" name="/LibDFRobot/Source"/>
+						<entry kind="includePath" name="/LibCMSIS/Source"/>
+						<entry kind="includePath" name="/LibLPC17xx/Source"/>
+						<entry kind="macro" name="NDEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/joystick.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/DFRobot/Source"/>
+						<entry kind="includePath" name="/LibDFRobot/Source"/>
+						<entry kind="includePath" name="/LibCMSIS/Source"/>
+						<entry kind="includePath" name="/LibLPC17xx/Source"/>
+						<entry kind="macro" name="NDEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/pca9532.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/DFRobot/Source"/>
+						<entry kind="includePath" name="/LibDFRobot/Source"/>
+						<entry kind="includePath" name="/LibCMSIS/Source"/>
+						<entry kind="includePath" name="/LibLPC17xx/Source"/>
+						<entry kind="macro" name="NDEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/Tune.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/DFRobot/Source"/>
+						<entry kind="includePath" name="/LibDFRobot/Source"/>
+						<entry kind="includePath" name="/LibCMSIS/Source"/>
+						<entry kind="includePath" name="/LibLPC17xx/Source"/>
+						<entry kind="macro" name="NDEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/OLED.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/DFRobot/Source"/>
+						<entry kind="includePath" name="/LibDFRobot/Source"/>
+						<entry kind="includePath" name="/LibCMSIS/Source"/>
+						<entry kind="includePath" name="/LibLPC17xx/Source"/>
+						<entry kind="macro" name="NDEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/NoSystem.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/DFRobot/Source"/>
+						<entry kind="includePath" name="/LibDFRobot/Source"/>
+						<entry kind="includePath" name="/LibCMSIS/Source"/>
+						<entry kind="includePath" name="/LibLPC17xx/Source"/>
+						<entry kind="macro" name="NDEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/new_string.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/DFRobot/Source"/>
+						<entry kind="includePath" name="/LibDFRobot/Source"/>
+						<entry kind="includePath" name="/LibCMSIS/Source"/>
+						<entry kind="includePath" name="/LibLPC17xx/Source"/>
+						<entry kind="macro" name="NDEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/Main.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/DFRobot/Source"/>
+						<entry kind="includePath" name="/LibDFRobot/Source"/>
+						<entry kind="includePath" name="/LibCMSIS/Source"/>
+						<entry kind="includePath" name="/LibLPC17xx/Source"/>
+						<entry kind="macro" name="NDEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+					<resource project-relative-path="Source/dfrobot.c">
+						<entry kind="includePath" name="/${ProjName}/Include">
+							<flag value="VALUE_WORKSPACE_PATH"/>
+						</entry>
+						<entry kind="includePath" name="/LibLPC17xx/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/LibCMSIS/Include">
+							<flag value="VALUE_WORKSPACE_PATH|RESOLVED"/>
+						</entry>
+						<entry kind="includePath" name="/DFRobot/Source"/>
+						<entry kind="includePath" name="/LibDFRobot/Source"/>
+						<entry kind="includePath" name="/LibCMSIS/Source"/>
+						<entry kind="includePath" name="/LibLPC17xx/Source"/>
+						<entry kind="macro" name="NDEBUG" value=""/>
+						<entry kind="macro" name="__CODE_RED" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+						<entry kind="macro" name="__NEWLIB__" value=""/>
+						<entry kind="macro" name="__REDLIB__" value="">
+							<flag value="UNDEFINED"/>
+						</entry>
+					</resource>
+				</language>
+			</provider>
+		</extension>
+	</configuration>
+</project>
